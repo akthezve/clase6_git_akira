@@ -17,6 +17,12 @@ Revisión del control de la versión desde el terminal
 2. PROCESADOR AMD RYZEN 5 4500U WITH RADEON GRAPHICS
 3. 2.38 GHz
 4. SISTEMA OPERATIVO DE 64 bits
+5. Windowns 11
+
+## CARACTERISTICAS PROGRAMA
+- Git 2.36.1
+- Python 3.4
+- Packages: spicy 4.5.2, matplotñib 1.2.12
 
 ## EJECUCIÓN
 
